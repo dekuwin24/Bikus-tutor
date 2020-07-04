@@ -1,0 +1,3125 @@
+{
+  "lessons": [
+    { "id": 1, "titre": "English",
+      "programme": [
+        {"id":1, "titre":"The simple present", "couleur":"grey"},
+        {"id":2, "titre":"Simple future", "couleur":"black"},
+        {"id":3, "titre":"Infinitive form with and without to", "couleur":"grey"},
+        {"id":4, "titre":"IDefective (modals)", "couleur":"black"},
+        {"id":5, "titre":"ING form(gerund)", "couleur":"grey"},
+        {"id":6, "titre":"Since-For-Ago", "couleur":"black"},
+        {"id":7, "titre":"The direct and the indirect speech", "couleur":"grey"},
+        {"id":8, "titre":"Plural of nouns", "couleur":"black"},
+        {"id":9, "titre":"Reflexive pronouns", "couleur":"grey"},
+        {"id":10, "titre":"Question Tags", "couleur":"black"},
+        {"id":11, "titre":"Comparatives and superlatives", "couleur":"grey"}
+
+      ],
+      "exo":[
+        {"id":1, "titre":"Cours de Placide YAMEOGO", "text": [
+          {
+            "titre":"NO TEXT",
+            "paragraphe":[
+              {"paragraphe1":""},
+              {"paragraphe2":""},
+              {"paragraphe3":""}
+            ],
+            "auteur":"",
+            "writing":[
+              {"question": true,"type":"V - ESSAY", "essay":"Have you ever gonr hunting or head or read stories on hunting? Relate in a few lines","text":"Personal essay: Do it with the help of an english speaking adult or friend"}
+            ]
+          }
+        ]},
+          {"id":2, "titre":"College prostestant Ouagadougou", "text": [
+            {
+              "titre":"The hunter",
+              "paragraphe":[
+                {"paragraphe1":"A hunter wanted to become a member of a certain club in Africa. In order to become a member, each person had to shoot at least one lion. The hunter had never shot an animal in all his life. So, armed with a rifle and accompanied by a young boy, the hunter set out one evening for a pool in the jungle where he was told a lion came each evening to drink. He waited patienly for few hours until shortly before midnight when he heard rustling noise. sure enough, a few yards away a head of a lion appeared above a bush that separated the hunter and pool."},
+                {"paragraphe2":"He aimed and fired. The head of the lion immediately fell behind the bush  but a moment later reappeared. So, the hunter aimed and fired again: the same-result. He remaind calm because he knew he had brought sixteen bullets with him. After his fourth attempt, his aim seemed to become more inaccurate; in fact, after his fifteenth attempt the African boy had to warn him: "},
+                {"paragraphe3":"“ this is your last chance. If you miss this time, we're in trouble.” The hunter then realized how serious the situation was, so he took a deep breath, aimed very carefully and fired. They waited a momment, then slowly counted up to twenty: the head of the lion did not reappear. The hunter was certain he had shot his lion. They rushed forward together to the spot behind the bush. And what do you think they found? Sixteen lions."}
+              ],
+              "auteur":"",
+              "writing":[
+                {"question": true,"type":"V - ESSAY", "essay":"Have you ever gonr hunting or head or read stories on hunting? Relate in a few lines","text":"Personal essay: Do it with the help of an english speaking adult or friend"}
+              ]
+            }
+          ]},
+        {"id":3, "titre":"Lycée provincial de Koudougou ", "text": [
+          {
+            "titre":"Forced Marriage",
+            "paragraphe":[
+              {"paragraphe1":"- “You see. you are already dur for marriage now, and I, as your father, have already found you a good, responsible, and respectable man who will take good care of care of you. Your mother and I have discussed the issue.” - “But why? Father, why? Why? do you have to choose for me? I am no more a little baby. I can choose for myself.” Fola said to herself. - “Fola my angel, you see, your mother and I got  married at an early age. So I would not like you to get married very late. When you get married young you can have children earlier than your age-mates. You know, the man I want you to marry is a responsible fellow that every mother in our community would like to have as their son-in-law. He has helped our family for years.” Mr. Otunda concluded."},
+              {"paragraphe2":"- “I suspect it must br Taju that old-for-nothing-man! I am sorry father, I don't want him” Fola said to herself, but she could not say so to her father because this would make him angry. - “Who is it father?” Fola finally asked. - “Taju, my dear!” Mr. Otunda said proudly. - “Taju?” Fola repeat horrified."},
+              {"paragraphe3":"- “Yes, my dear Taju is the one I found for you, he is going to be your future husband. That is my plan. He really loves you more than anyone else in this Abeokuta”. Fola interrupted, not minding what her father would say next because she wanted a husband of her own choice. “But why Taju, father? Please! I don't like him, father, please!” she begged. Mr. Otunda is a well-built, handsome, and hard-working man. He always keeps his words. All his family members fear and respect him. They dare not disobey him. His “yes” is “yes” and his “no” is “no”."}
+            ],
+            "auteur":"Bella Olawale Bella, My future love.",
+            "writing":[
+              {"question": true,"type":"V - ESSAY", "essay":"Would you like your fathers to choose a husband or a wife for you? Why or why not?","text":"Personal essay: Do it with the help of an english speaking adult or friend"}
+            ]
+          }
+        ]},
+        {"id":4, "titre":"Collège privé Teegawendé ", "text": [
+          {
+            "titre":"Empty schools",
+            "paragraphe":[
+              {"paragraphe1":"Many poor families affected by AIDS can no more send their children to school. Even in countries where schooling is free, there are other costs such as uniforms and books. Specifically, to solve this problem, the world Food Programmes has proposed that “take home rations”. Should be added to projects that support school to give families as stimulating to send their children to school. Such a programme could particularly help girls, because families will generally keep girls out of school to take care of the family and sick persons. Where HIV infection rates are lower, school attendance, especially of girl, becomes higher."},
+              {"paragraphe2":"More-over, children can sometimes be the only members of a family who can work if the adults are sick or dead? And they will be more preoccupied with surviving and raising their brothers than going to school."},
+              {"paragraphe3":"AIDS orphans cannot go to secondary school and almost half the primary school pupils had abandoned by the time parents had died. Students are also among the most infected people and as students and pupils die, not only do Africa's economies lose potential skilled-workers but the governments educational investments in them is also wasted. Similarly, families expenditures on their school have been useless and they lose not just a loved one but a possible source of future income."}
+            ],
+            "auteur":" ",
+            "writing":[
+              {"question": true,"type":"V - ESSAY", "essay":"Do you think that AIDS is a threat to Africa's development? why?","text":"Personal essay: Do it with the help of an english speaking adult or friend"}
+            ]
+          }
+        ]},
+        {"id":5, "titre":"BEPC 2011 ", "text": [
+          {
+            "titre":"Food for education",
+            "paragraphe":[
+              {"paragraphe1":"A year ago, while the other children went to school, Fatouma, a Senegalese girl stayed behind to care for her younger brothers and sisters. A mere 34 dollars helped the sky eight-year-old girl take her place among the schoolchildren in Tambacounda region in the eastern part of Senegal Fatouma, like many other children, stays in school because they are enticed by the daily meal they receive"},
+              {"paragraphe2":"“When I wake up in the morning.I get ready to go to school very quickly because I know that good food is waiting tor me. I am happy that I can spend the whole day at school learning and I don't have to walk the long way home hungry. I like eating rice every day In my family, we don't often have rice to eat”, Fatouma says. The new partnership for Africa s Development (NEPAD) refers to education as an important step in reviving prosperity on the continent. NEPAD officials are working with partners such as the world food program (W.F.P) to get every child into primary school by 2015"},
+              {"paragraphe3":"Children like Fatouma are the future scientists and economists who will usher Africa in prosperity. But on empty stomach, they become easily distracted and have problems concentrating on their schoolwork. They become better students when their bodies are well-nourished and healthy. The incentive of getting a meal also reduces absenteeism. Most significantly, performance improves and drop-out rates decreases. The WFP provides the major part of the 34 dollars in most of the schools. However communities are progressively taking over in some villages. They provide the schools with some foodstuffs they produce locally. Those who cannot contribute are responsible for cooking or collecting the firewood"}
+            ],
+            "auteur":"Adapted from “Food Keeps African Children in School”, Africa Renewal, January 2007",
+            "writing":[
+              {"question": true,"type":"V - ESSAY", "essay":"Is it important to send children to school? Justify your answer.","text":"Personal essay: Do it with the help of an english speaking adult or friend"}
+            ]
+          }
+        ]},
+        {"id":6, "titre":"BEPC 2012 ", "text": [
+          {
+            "titre":"Going to a new school",
+            "paragraphe":[
+              {"paragraphe1":"After the last day of the holidays, my uncle Mamadou took me to my new school. “Work hard now” he said “and God will keep you. You can give me your irst ImpresSions on Sunday”. On the Sunday, I complained bitterly to my uncle: “But I ve learnt nothing uncle, I already know by heart all the things they taught us. Is it really necessary going to this school? I might as well go back to kouroussa at oncel!” “No” said my uncle, “Wait a little!”"},
+              {"paragraphe2":"“There' s nothing to wait for. I could see at once that there was nothing worth waiting for”. “Come! Do not be so impatient. Are you always as impatient as this? The school where you are now is perhaps not so good in general subjects, but it can give you practical training which you will find nowhere else. Haven't you been in the workshops?” I showed him my hands: they were covered with scratches and my fingers burne. “But I do not want to be a workman” I said. “Why not?” “I do not want to be neglected”. Now I was ambitious. But I would never realize my ambitions by becoming a manual worker. I had no more respect than most people for such workers."},
+              {"paragraphe3":"“But who is speaking of manual work?”, said my uncle. “A technician is not necessarily a manual worker. There are other things in his line of work. He is a man who has other workers under him. He can do many different things. That is where you will succeed. Believe me, stay where you are. And I'm going to tell you something you don't know: your school is about to be reorganized. You will shortly see great changes there, and the general standard of education will not be inferior to that at the Camille Guy College”. Did my uncle's arguments finally convince me? Not altogether perhaps. But my uncle Sekou and even my aunts added their advice to his, and so I stayed at the technical school."}
+            ],
+            "auteur":"Adapted from The African Child by CAMARA Laye"
+          }
+        ]},
+        {"id":7, "titre":"BEPC 2014 ", "text": [
+          {
+            "titre":"Jane Eyre",
+            "paragraphe":[
+              {"paragraphe1":"Jane Eyre, the narrator of the story, is an orphan who was received by her uncle. But her uncle’s wife, Mrs Reed, and his children did not love her. So she was maltreated by her aunt and cousins, especially John, after her uncle’s death."},
+              {"paragraphe2":"As Jane came up to John’s chair, he spent about three minutes in sticking out his tongue at Jane as far as he could. Jane knew he would soon hit her, and as she was waiting for the blow, she thought how disgusting and ugly his face was. He may have read Jane’s thoughts, for he hit Jane suddenly and hard. “What were you doing behind the curtain?” John asked Jane. “I was reading”, Jane said. “Show me the book”, John ordered her."},
+              {"paragraphe3":"Jane returned to the window and brought it. “You have no right to read our books”, John continued. “You depend on us, Mama says. Your father left you no money. You ought to beg, and not to live with a gentleman’s children. You should not eat the same food or be given clothes like us. Go and stand by the door, out of the way of the windows and the mirror.” Jane moved away, not at first aware of what he was going to do. Then she saw him lift and throw the book; but it was too late to avoid it. She was knocked over and fell against the door, striking her head and cutting it badly. The cut bled and the pain was very serious."}
+            ],
+            "auteur":"Adapted from Jane Eyre by Charlotte Brinte."
+          }
+        ]},
+        {"id":8, "titre":"BEPC 2015", "text": [
+          {
+            "titre":"The Story of a child soldier",
+            "paragraphe":[
+              {"paragraphe1":"My name is Lawrence Moore. More than five years ago, after my country got caught in a terrible civil war, I joined one group of soldiers when I was 15. I took part in many combats.I was hurt in the very first one and was treated in a hospital. There, for the first time, I felt that belong to something. We lost many of our men, but we also killed a lot of enemies. One night, one of my friends died in front of me. I felt very bad, but I never stopped fighting. I said to myself that this is war. I myself killed so many on the battle field, but never any civilians. When I killed my enemies I felt good. But right now, I pray God to forgive me"},
+              {"paragraphe2":"Like many other soldiers of my age, I never had any school education. When the war ended, I dreamt about finding a job. With no education and no training, there was no job for me. Meanwhile, I saw the leader's adolescent son riding a new and beautiful motorcycle. I was even arrested and freed by a foreign journalist."},
+              {"paragraphe3":"When I think of the five years I spent in the bush, killing people with guns, taking dugs, smoking and being shot at, I feel very stupid. We were giving our lives for people who by tomorrow will not remember how they got where they are. Now, the United Nations convention on the children's rights, adopted in 1989, makes it illegal to use children into armed conflicts. Unfortunately, people do not respect this convention and many children are participating in many different civil wars on the African Continent."}
+            ],
+            "auteur":"Adapted from The State of the World's children 1996 - New York Times, Department of Public Information, p.52"
+          }
+          ]},
+        {"id":9, "titre":"BEPC 2016", "text": [
+          {
+            "titre":"Immagration",
+            "paragraphe":[
+              {"paragraphe1":"People immigrate for reasons : some are force to leave their countries because of poverty or political crisis, others are simply attracted by adventure and better life. Immigrants face new realities : they adapt themselves to the climate and to the local populations' habits, customs and food. The more they adapt themselves to this new way of life, the easier life becomes to them because they integra into the host communities and share their joys and difficulties."},
+              {"paragraphe2":"Over therecent years, thousands of families have been forced to come back to Burkina Faso, becauseof the political instability in Côte d'Ivore. In fact, after years of peaceful cohabitation between Burkina Immigrants and the populations of Côte d'Ivore, the Burkinabe were obliged to leave everything behind them."},
+              {"paragraphe3":"This is not an isolated case because whenever there are troubles in a country, the decision to leave this country for another one is most of the time the solution for those who immigrate. Immigrants, through their work, are useful to both their motherland and their host country"}
+            ],
+            "auteur":"Adapted from RCH report 2003 P.15"
+          }
+          ]},
+        {"id":10, "titre":"BEPC 2017", "text": [
+          {
+            "titre":"From suffering to happiness",
+            "paragraphe":[
+              {"paragraphe1":"Yaniya, a very pretty girl, came to Lagos from Benin to look for a job in spite of her father’s refusal to let her go. Things were not easy for her there; in addition, men would deceive her and leave her heart-broken and hopeless. She gave birth to a child who died a few months later. She became pregnant again. An abortion followed; it nearly killed her."},
+              {"paragraphe2":"She was determined to have no more men in her life but to work hard and get enough money to pay her rent and buy herself clothes. Men ran after her, but they were always rejected and they came to the conclusion that such a beautiful girl must be abnormal. She could have continued her celibate life, but Wilson’s kindness opened her heart again."},
+              {"paragraphe3":"He used to go out with her. They were living together for about three weeks. Yaniya was very happy. One day, she told Wilson that she was pregnant. He immediately decided to marry her. She was overjoyed. They got married and went to Accra for their honeymoon. She wanted to contribute to the well-being of their new family; for this reason, she decided to have training in dressmaking; something she could do while keeping her house. It was her big dream. She was so happy of her new life that she often told Wilson how she had been deceived by Lagos men whose tongues were faster than their hired cars and whose lies could always put women in bed but never feed them."}
+            ],
+            "auteur":"Adapted from Beautiful Feathers By Cyprian Ekwensi; pages 25-26."
+          }
+          ]},
+          {"id":11, "titre":"BEPC 2018", "text": [
+            {
+              "titre":"Memories",
+              "paragraphe":[
+                {"paragraphe1":"I was born into a large family. My father who was a farmer had four wives and twenty-eight children. I also belonged to an extended family and to all the community. We spoke Gikuyu which is a local language at home and in the fields where we worked. I can clearly remember those evenings when the adults told stories to the children around the wood fire; everybody was interested."},
+                {"paragraphe2":"We, the children, would retell the stories the following days to the other children who were absent because they were working in the fields. The tales in which animals are the main characters, were told in Gikuyu. Hare, being small, weak and intelligent, was our hero."},
+                {"paragraphe3":"We liked him because he struggled against the brutes like lion, leopard, hyena. His victories were our victories and we learnt that the apparently weak can be more clever than the stronger. During the story-telling, we could imagine the animals in their struggles against hostile nature (drought, rain, sun, wind) and in their rivalries. These struggles against nature and other animais reflect real situations. Everywhere in the Gikuyu country, children are educated through popular and traditional stories which prepare them for real life experiences."}
+              ],
+              "auteur":"Adapted from Ngugi Wa Thiongo (1986) Decolonising the Mind: The politics of language in Africa"
+            }
+
+          ]},
+          {"id":12, "titre":"Soon"}
+
+      ],
+     "tests": {
+       "title": "My quiz",
+       "questions": [
+         {
+           "text": "Question 1",
+           "type":[
+             {"type1":"I - COMPREHENSION"},
+             {"type2":"II - VOCABULARY"},
+             {"type3":"II - GRAMMAR"},
+             {"type":"IV - WRITING"}
+           ],
+           "responses": [
+             {"text": "Wrong, too bad."},
+             {"text": "Right!", "correct": "true"}
+           ]
+         }, {
+           "text": "Question 2",
+           "responses": [
+             {"text": "Right answer", "correct": "true"},
+             {"text": "Wrong answer"}
+           ]
+         }
+       ]
+     }
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "quizs": [
+    {"id":1,
+      "tests":{
+        "titre": "QUESTIONS",
+        "questions": [
+          {
+            "text":
+              {"type":"I - EXERISE 1", "texts":"A - Choose the correct the reported speech for the following sentence.", "questions":"1 - “Don't pronouncr the L in coiuld” ..."},
+
+            "responses": [
+                {"text": "her aunt died"},
+                {"text": "her cousin died"},
+                {"text": "her father die", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "her brother died."}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Who ill-treated Jane the most in the Reeds family ?"},
+
+              "responses": [
+                {"text": "John", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Mrs Reed"},
+                {"text": "Mr Reed"},
+                {"text": "John’s brother."}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Jane was behind the curtain ..."},
+
+              "responses": [
+                {"text": "looking for a book"},
+                {"text": "placing a book"},
+                {"text": "stealing a book"},
+                {"text": "reading a book.", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - When John threw the book at Jane ..."},
+
+              "responses": [
+                {"text": "she could throw it back"},
+                {"text": "she could not avoid it", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "she could catch it"},
+                {"text": "she could avoid it"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - John’s mother told him that Jane was dependent."},
+
+              "responses": [
+                {"text": "False"},
+                {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - Jane inherited wealth from his father."},
+
+              "responses": [
+                {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "True"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - Jane’s cousins loved her."},
+
+              "responses": [
+                {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "True"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - John Reed is a bad and violent boy."},
+
+              "responses": [
+                {"text": "False"},
+                {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 - How did John know that Jane’s father left her no money?"},
+
+              "responses": [
+                {"text": "John know that Jane’s father left her no money because his mother had told him", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "John know that Jane’s father left her no money because he took it"},
+                {"text": "John know that Jane’s father left her no money because her father told him"},
+                {"text": "John know that Jane’s father left her no money because the Reed family took it"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - According to John, what should Jane do in order to live?"},
+
+              "responses": [
+                {"text": "According to John, Jane should read to live"},
+                {"text": "According to John, Jane should beg to live", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "According to John, Jane should do mothing to live"},
+                {"text": "According to John, Jane should get a job to live"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - Was Jane happy in the Reeds family? Why or why not ?"},
+
+              "responses": [
+                {"text": "Yes, she happy because they treated her with love"},
+                {"text": "No, she was not happy because she was ill-treated", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "No, she was not happy because Jhon did not want her to leave"},
+                {"text": "Yes, she happy because she could do whatever she want"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"A - Find in the text, a verb deriving from this noun.","questions":"1 - knowledge"},
+
+              "responses": [
+                {"text": "To know", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "To be aware"},
+                {"text": "To be"},
+                {"text": "To knock"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"A - Find in the text, a noun deriving from this verb.","questions":"2 - beggar"},
+
+              "responses": [
+                {"text": "To beg", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "To bring"},
+                {"text": "To stand"},
+                {"text": "To live"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the appropriate words from the text.","questions":"1 - The person who tells a story is a ...  (paragraph 1) " },
+
+              "responses": [
+                {"text": "narrator" ,"correct": true, "answer":"GREAT JOB ! "},
+                {"text": "sister"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the appropriate words from the text","questions":"2 - Jane was terribly ... by the book  (paragraph 3)"},
+
+              "responses": [
+                {"text": "Knocked over", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Striking"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"1 - Look ! Jane (to cry)."},
+
+              "responses": [
+                {"text": "cried"},
+                {"text": "cry"},
+                {"text": "is crying", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "cries"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"2 - Jane (to be) independent in the future?"},
+
+              "responses": [
+                {"text": "will be", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "is"},
+                {"text": "being"},
+                {"text": "will have been"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks with the appropriate preposition","questions":"1 - I have lost my keys; I am looking ... them."},
+
+              "responses": [
+                {"text": "for", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "after"},
+                {"text": "at"},
+                {"text": "from"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks with the appropriate preposition","questions":"2 - John is different ... the other children."},
+
+              "responses": [
+                {"text": "for"},
+                {"text": "after"},
+                {"text": "at"},
+                {"text": "from", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"C - Choose the correct the indirect speech for the following sentence.","questions":"1 -  Jane said: “I am reading a book.”"},
+
+              "responses": [
+                {"text": "Jane said that she was reading a book", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Jane said that he is reading a book"},
+                {"text": "Jane said that she has been reading a book"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"C - Choose the correct the indirect speech for the following sentence.","questions":"2 - “Put the book back on the bookshelf”, John ordered Jane."},
+
+              "responses": [
+                {"text": "John ordered Jane to be putting the book back on the bookshelf"},
+                {"text": "John ordered Jane to put the book back on the bookshelf", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Jane ordered Jhon to put the book back on the bookshelf"},
+                {"text": "John shoutld ordered Jane to put the book back on the bookshelf"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"D - Choose the appropriate relative pronoun to complete the sentence.","questions":"1 - John is the boy ... doesn’t like Jane."},
+
+              "responses": [
+                {"text": "that"},
+                {"text": "who", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "which"},
+                {"text": "whom"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"D - Choose the appropriate relative pronoun to complete the sentence.","questions":"2 - Jane ... father died was suffering?"},
+
+                "responses": [
+                  {"text": "that"},
+                  {"text": "who"},
+                  {"text": "which"},
+                  {"text": "whose", "correct": true, "answer":"GREAT JOB !"}
+                ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"E - Choose the one corresponding to the correct answer.","questions":"1 - We must never be violent, ..."},
+
+              "responses": [
+                {"text": "Must we?", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Mustn’t we?"},
+                {"text": "Must we not?"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"E - Choose the one corresponding to the correct answer.","questions":"2 - Mrs Reed consoles her, ..."},
+
+              "responses": [
+                {"text": "Does she?"},
+                {"text": "Does she not?"},
+                {"text": "Doesn’t she?", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"F - Complete the sentence with “make” or “do”.","questions":"1 - I ... my homework every day."},
+
+              "responses": [
+                {"text": "make"},
+                {"text": "do", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"F - Complete the sentence with “make” or “do”.","questions":"2 - They always ... mistakes."},
+
+                "responses": [
+                  {"text": "make", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "do"}
+                ]
+            }
+          ]
+        }
+      },
+      {"id":2,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":"1 - To become a member of the club each person had to shoot ..."},
+
+              "responses": [
+                  {"text": "More than one lion"},
+                  {"text": "Two lions at least"},
+                  {"text": "One lion or more", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "One lion at the most"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 2 - According to the text the hunter had ..."},
+
+                "responses": [
+                  {"text": "Never shot an aminal in his boyhood", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Often shot animals in his life"},
+                  {"text": "Killed no animal since he was born"},
+                  {"text": "Never shot a person in his life"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 3 - The hunter went out ..."},
+
+                "responses": [
+                  {"text": "with a gun", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "with a boy who was armed with a rifle"},
+                  {"text": "without a rifle"},
+                  {"text": "with a stick"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 4 - When did the first lion come?"},
+
+                "responses": [
+                  {"text": "A few hours after midnight"},
+                  {"text": "Shortly before sunset"},
+                  {"text": "Shortly before 12 AM"},
+                  {"text": "Shortly before 12 PM", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 5 - How did the hunter know that the lion was coming?"},
+
+                "responses": [
+                  {"text": "He heard  its roar"},
+                  {"text": "He heard its noise in the grass", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "it came straight to him"},
+                  {"text": "he heard it plunge into the water"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 6 - When the hunter aimed and fired the first shot ..."},
+
+                "responses": [
+                  {"text": "the lion actually fell dead"},
+                  {"text": "the lion disappeared but was not killed", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "the lion stood up right"},
+                  {"text": "the same lion reappeared"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 7 - The aime of the hunter seemed more and more inaccurate because ..."},
+
+                "responses": [
+                  {"text": "the lion was killed"},
+                  {"text": "the African boy told him so"},
+                  {"text": "the lion kept appearing", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "the hunter's rifle was bad"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 8 - Why was the situation serious for the hunter?"},
+
+                "responses": [
+                  {"text": "He missed his last bullet"},
+                  {"text": "His fifteenth attempt seemes unsuccessful", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "He took a deep breath"},
+                  {"text": "He killed all the lions"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"1 - What did this man and the African boy go hunting?"},
+
+                "responses": [
+                  {"text": "They went hunting a lion", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "They went hunting chickens"},
+                  {"text": "They went hunting hores"},
+                  {"text": "They went hunting a worlf"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"2 - What would have happened if the hunter had missed the last bullet?"},
+
+                "responses": [
+                  {"text": "He would have lost face"},
+                  {"text": "He would have been sad"},
+                  {"text": "They would have been attacked by the sixteenth lion", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The lion would gotten away"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"3 - What do you think fo the hunter? Is he a good or bad shot? why?"},
+
+                "responses": [
+                  {"text": "I think that the hunter is a bad one, because he missed all of his target"},
+                  {"text": "I think that the hunter is a good one, because he missed none of his target", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "I think that the hunter is a good one, because he missed all of his target"},
+                  {"text": "I think that the hunter is a bad one, because he missed none of his target"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice of the following sentence","questions":"1 - The man was waiting for an African boy."},
+
+                "responses": [
+                  {"text": "An African boy was being waited for by the man.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "An African boy was waited for by the man."},
+                  {"text": "An African boy waited for by the man."},
+                  {"text": "An African boy was waiting for by the man."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice of the following sentence","questions":"2 - They will hear the lion roar."},
+
+                "responses": [
+                  {"text": "The lion roar was heard by them"},
+                  {"text": "The lion roar will be heard by them", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The lion roar will heard by them"},
+                  {"text": "The lion roar wwould have been heard by them"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks of the following sentence","questions":"1 - The hunter wanted to be famous, ... I."},
+
+                "responses": [
+                  {"text": "so did I", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "neither did I"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks of the following sentence","questions":"2 - He never eats meat, ... my brother."},
+
+                "responses": [
+                  {"text": "so did "},
+                  {"text": "so never does", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct answer","questions":"1 - This man had been (good) hunter in the village"},
+
+                "responses": [
+                  {"text": "the best", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "better than"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct answer","questions":"2 - The African boy was (afraid of) the lion ... the hunter"},
+
+                "responses": [
+                  {"text": "most of afraid of the lion"},
+                  {"text": "more afraid of the lion than", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the correct compound form of the following sentence","questions":"1 - The animal might fall in the river."},
+
+                "responses": [
+                  {"text": ""},
+                  {"text": ""},
+                  {"text": "", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the correct compound form of the following sentence","questions":"2 - He should know the bush."},
+
+                "responses": [
+                  {"text": ""},
+                  {"text": "", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": ""}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"1 - A hunter wanted to become a member of a certain club in Africa. In order to become a member, each person had to shoot at least one lion."},
+
+                "responses": [
+                  {"text": "Un chasseur désirait devenir membre d'un certain club en Afrique. Pour devenir membre, chaque personne devrait tuer au plus un lion."},
+                  {"text": "Un chasseur désirait devenir membre d'un certain club en Afrique. Pour devenir membre, chaque personne devrait tuer au moins un lion.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              }
+            ]
+          }
+      },
+      {"id":3,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":"1 - You are already due for marriage means ..."},
+
+              "responses": [
+                  {"text": "you are not ready to get married"},
+                  {"text": "you must not get married"},
+                  {"text": "you are old enough to get married", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "you are very old"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Fola's father discussed the issue with: ..."},
+
+                "responses": [
+                  {"text": "his cousin"},
+                  {"text": "no one"},
+                  {"text": "Taju"},
+                  {"text": "his wife", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Otunda wanted his daughter to get married ..."},
+
+                "responses": [
+                  {"text": "right now", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "later on"},
+                  {"text": "long after"},
+                  {"text": "lately"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 4 - “Fola said to herself” means: ..."},
+
+                "responses": [
+                  {"text": "she spoke openly"},
+                  {"text": "she spoke loudly"},
+                  {"text": "she spoke in a low voice"},
+                  {"text": "she spoke within herself", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 5 - Fola's parents got married when ..."},
+
+                "responses": [
+                  {"text": "they were young", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "they were old"},
+                  {"text": "they were middle-aged"},
+                  {"text": "they were not young at all"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 6 - “That old-for-nothing” shows Fola's ..."},
+
+                "responses": [
+                  {"text": "disdain for Taju", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "love for Taju"},
+                  {"text": "respect for Taju"},
+                  {"text": "care for Taju"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 7 - According to the text, Fola ..."},
+
+                "responses": [
+                  {"text": "accepts forced marriage"},
+                  {"text": "tolerates forced marriage"},
+                  {"text": "opposes forced marriage", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "encourages forced marriage"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 8 - Fola's father wants her to marry Taju because ..."},
+
+                "responses": [
+                  {"text": "Taju is a young irrespectful man"},
+                  {"text": "Taju is a careless man"},
+                  {"text": "Taju is one of Fola's friends"},
+                  {"text": "Taju is supportive of their family", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"1 - why does Otunda wants his daughter to get married at an earlier age?"},
+
+                "responses": [
+                  {"text": "because he married yong"},
+                  {"text": "in order to have children earlier than her age-mates.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "because Taju has taken care of her"},
+                  {"text": "because he likes Taju"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"2 - What shows in the text that Fola's father is a man of authority? "},
+
+                "responses": [
+                  {"text": "Not minding what her father would say next because she wanted a husband of her own choice"},
+                  {"text": "His wife and him have alredy discussed the marriage arrangement."},
+                  {"text": "Fola said to herself, but she could not say so to her father because this would make him angry."},
+                  {"text": "His family members fear and respect him. They dare not disobey him. His “yes” is “yes” and his “no” is “no”.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct verbe tense of the verb in brackets","questions":"1 - Peter (cannot) ride a bicycle last year."},
+
+                "responses": [
+                  {"text": "Peter will not ride a bicycle last year."},
+                  {"text": "Peter will ride a bicycle last year."},
+                  {"text": "Peter could not ride a bicycle last year.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Peter could ride a bicycle last year."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct verbe tense of the verb in brackets","questions":"2 - He (to visit) Ouagadougou in august 1993."},
+
+                "responses": [
+                  {"text": "He will visit Ouagadougou in august 1993"},
+                  {"text": "He could visit Ouagadougou in august 1993"},
+                  {"text": "He has visited Ouagadougou in august 1993"},
+                  {"text": "He visited Ouagadougou in august 1993", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks of the following sentence","questions":"1 - Last night he worked ... two hours."},
+
+                "responses": [
+                  {"text": "since"},
+                  {"text": "for", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks of the following sentence","questions":"2 - She has done the housework ... she got up this morning."},
+
+                "responses": [
+                  {"text": "since", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "for"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct passive voice for the following sentence","questions":"1 - The law of Burkina Faso forbids forced narriage"},
+
+                "responses": [
+                  {"text": "Forced marriage has been forbidden by the law of Burkina Faso"},
+                  {"text": "Forced marriage will be forbidden by the law of Burkina Faso"},
+                  {"text": "Forced marriage is forbidden by the law of Burkina Faso ", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Forced marriage was forbidden by the law of Burkina Faso"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct passive voice for the following sentence","questions":"2 - Nowadays, the young do not always respect family decisions"},
+
+                "responses": [
+                  {"text": "Nowadays, family decisions will not always be respected by the young"},
+                  {"text": "Nowadays, family decisions are not always respected by the young", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Nowadays, family decisions will have not been always respected by the young"},
+                  {"text": "Nowadays, family decisions are always respected by the young"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Fill in with the appropriate preposition of the following sentence","questions":"1 - When my parents are not home, I look ... my younger brothers and sisters."},
+
+                "responses": [
+                  {"text": "for"},
+                  {"text": "after", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "in"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Fill in with the appropriate preposition of the following sentence","questions":"2 - Salif has his BEPC. Now, he is looking ... for a job."},
+
+                "responses": [
+                  {"text": "for", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "after"},
+                  {"text": "in"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"1 - Je viens de rencontrer un vieil ami."},
+
+                "responses": [
+                  {"text": "I have just made a new friend."},
+                  {"text": "I have just met a new friend."},
+                  {"text": "I have just met an old friend.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "I have just gotten an old friend."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"2 - Alex a trouvé du travail il y a deux mois."},
+
+                "responses": [
+                  {"text": "Alex will get a job two month ago."},
+                  {"text": "Two month ago, Alex will get a job."},
+                  {"text": "Alex have jus gotten a job."},
+                  {"text": "Alex got a job two month ago.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"3 - Pourras-tu m'aider avec mes exercises?" },
+
+                "responses": [
+                  {"text": "Will you be able to help me with my exercise?","correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Can help me with my exercise?"},
+                  {"text": "Will you have helped me with my exercise?" },
+                  {"text": "Can you be helping me with my exercise?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation  ","questions":"4 - Quand je finirai cet examen, je voyagerai."},
+
+                "responses": [
+                  {"text": "When I finish this exam, I'll travel.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "When will I finish this exam, I'll travel."},
+                  {"text": "If I finish this exam, I'll travel."},
+                  {"text": "I finish this exam, I'll travel."}
+                ]
+              }
+            ]
+          }
+      },
+      {"id":4,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":"1 - According to the text, schools are empty because of ..."},
+
+              "responses": [
+                  {"text": "parent's death", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Pupils laziness"},
+                  {"text": "Parents iresponsibility"},
+                  {"text": "students influence"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Why has the WFP proposed “lake-home rations”?"},
+
+                "responses": [
+                  {"text": "Because pupils do not have food at home", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Because parents do not eat"},
+                  {"text": "Because parents do not want to buy food"},
+                  {"text": "Because pupils refuse to eat at home"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Girls abandon school because ..."},
+
+                "responses": [
+                  {"text": "They do not like going to school"},
+                  {"text": "They become caregivers", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "They like to stay home"},
+                  {"text": "Their parents love them"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 4 - When a parent is AIDS infected, his money is used ..."},
+
+                "responses": [
+                  {"text": "to buy food"},
+                  {"text": "to buy books and uniforms"},
+                  {"text": "help the poor"},
+                  {"text": "to cure himself", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 5 - When pupils and students die ..."},
+
+                "responses": [
+                  {"text": "The country will win more money"},
+                  {"text": "The country' s development will be good"},
+                  {"text": "Country's future will be uncertain", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The country will development fast"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 6 - Africa's economies become weak because ..."},
+
+                "responses": [
+                  {"text": "The government invest in education"},
+                  {"text": "AIDS is killing students and workers", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "AIDS is disappearing from schools"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 7 - When HIV infection rates are higher ..."},
+
+                "responses": [
+                  {"text": "less female children will go to school", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "more school will open"},
+                  {"text": "less male children will go to school"},
+                  {"text": "more school will have uniforms"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 8 - Raising their brothers means ..."},
+
+                "responses": [
+                  {"text": "Rising their brothers"},
+                  {"text": "Abandoning their brothers"},
+                  {"text": "Looking at their brothers"},
+                  {"text": "Taking care of their brothers", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"1 - What is the consequence of AIDS on school attendance?"},
+
+                "responses": [
+                  {"text": "The consequence of AIDS on school attendance is that AIDS reduces school attendance", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The consequence of AIDS on school attendance is that AIDS children loses their parents"},
+                  {"text": "The consequence of AIDS on school attendance is that AIDS people don't can't have children"},
+                  {"text": "The consequence of AIDS on school attendance is that AIDS children die "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"2 - Why AIDS orphans cannot go to secondary school? "},
+
+                "responses": [
+                  {"text": "AIDS orphans cannot go to secondary school because they are too sick to continue"},
+                  {"text": "AIDS orphans cannot go to secondary school because as parents dies they have to work and take care of their younger brother", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "AIDS orphans cannot go to secondary school because they don't what to anymore"},
+                  {"text": "AIDS orphans cannot go to secondary school because they do not have anybody to guide them"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice for the following sentence","questions":"1 - Economies will waste more money."},
+
+                "responses": [
+                  {"text": "More money will be waste by economies", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Money will be waste by economies"},
+                  {"text": "More money wis waste by economies"},
+                  {"text": "Economies will be waste by more money"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice for the following sentence","questions":"2 - Children can sometimes lose both parents."},
+
+                "responses": [
+                  {"text": "Children can sometimes lose by both parents"},
+                  {"text": "Sometimes both parents can be lost by children", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Sometimes both parents lost their children"},
+                  {"text": "Sometimes both parents are lost by children"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice for the following sentence","questions":"3 - AIDS has emptied schools of their pupils."},
+
+                "responses": [
+                  {"text": "AIDS has emptied schools of their pupils"},
+                  {"text": "Schools has emptied of their pupils by AIDS"},
+                  {"text": "Schools has been emptied of their pupils by AIDS", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "AIDS has emptied schools their pupils"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct passive voice for the following sentence","questions":"4 - Girls helped their sick parents at home."},
+
+                "responses": [
+                  {"text": "Sick parents at home by girls have been helped"},
+                  {"text": "Sick parents by girls at home have been helped", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Sick parents have been helped by girls at home"},
+                  {"text": "Sick parents helped by girls at home"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct reported speech for the following sentence","questions":"1 - Paul asked you “what are you saying to Lisa?”"},
+
+                "responses": [
+                  {"text": "Paul asked you what you were saying to Lisa", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Paul asked you what he was saying to Lisa"},
+                  {"text": "Paul asked you what are you saying to Lisa"},
+                  {"text": "Paul asked you what are Lisa saying to you"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct reported speech for the following sentence","questions":"2 - “Do they really need to stay here” my mother asked me"},
+
+                "responses": [
+                  {"text": "Do they really need to stay here my mother asked me", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "My mother asked me if they really needed to stay here"},
+                  {"text": "My mother asked me do they really needed to stay here"},
+                  {"text": "They really needed to stay here my mother asked me "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct reported speech for the following sentence","questions":"3 - “Just say it and leave!” they told Ali"},
+
+                "responses": [
+                  {"text": "They told Ali just to say it and leave", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Ali told them just to say it and leave"},
+                  {"text": "Ali told them to say it and leave"},
+                  {"text": "They told Ali to say it and leave"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct reported speech for the following sentence","questions":"4 -  “Can you sing a song” the teacher asked us"},
+
+                "responses": [
+                  {"text": "The teacher asked us if we could sing a song", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Can you sing a song the teacher asked us"},
+                  {"text": "The teacher asked us we to sing a song"},
+                  {"text": "The teacher want us to sing a song"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"1 - Elle ne vient plus ici depuis janvier."},
+
+                "responses": [
+                  {"text": "She hasn't come here since January", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "She hasn't come here since April"},
+                  {"text": "She has come here since January"},
+                  {"text": "She has come here since April"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"2 - Ils n'avaient jamais accepte la proposition de leurs parents"},
+
+                "responses": [
+                  {"text": "They had never accepted their parents' proposition", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "They had accepted their parents' proposition"},
+                  {"text": "They had never accepted their parents"},
+                  {"text": "their parents had never accepted their proposition"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"3 - Le ciel etait bleu et le vent soufflait fort." },
+
+                "responses": [
+                  {"text": "The sky was pink and the wind was blowing weakly"},
+                  {"text": "The sky was blue and the wind was blowing strongly","correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The sky was blue and the wind was not blowing strongly" },
+                  {"text": "The sky was pink and the wind was blowing strongly"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation  ","questions":"4 - Tu pleures depuis des heures."},
+
+                "responses": [
+                  {"text": "You cried for hours"},
+                  {"text": "You have been crying for hours", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "For hours you have been crying "},
+                  {"text": "You are crying for hours"}
+                ]
+              }
+            ]
+          }
+      },
+      {"id":5,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":"1 - Fatouma is ..."},
+
+              "responses": [
+                  {"text": "A housemaid"},
+                  {"text": "An unemployed girl"},
+                  {"text": "A school girl", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "A baby-sitter"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Fatouma is from ..."},
+
+                "responses": [
+                  {"text": "A family in Dakar"},
+                  {"text": "A rich family"},
+                  {"text": "An orphanage"},
+                  {"text": "A poor family", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 3 - The NEPAD is ..."},
+
+                "responses": [
+                  {"text": "An African program", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "A worldwide program"},
+                  {"text": "An Amenca program"},
+                  {"text": "A national program"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 4 - Fatouma 1s glad because she ..."},
+
+                "responses": [
+                  {"text": "Will not go to school"},
+                  {"text": "Knows everything about school"},
+                  {"text": "Will not be hungry at the end of the day", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Cares for her younger brothers and sisters"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 5 - Fatouma's house is ..."},
+
+                "responses": [
+                  {"text": "Near the school"},
+                  {"text": "Far from the school", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Opposite the school"},
+                  {"text": "In the school yard"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 6 - Children make good results at school when they ..."},
+
+                "responses": [
+                  {"text": "Stay at school"},
+                  {"text": "Work for the NEPAD"},
+                  {"text": "Eat well at school and are in good health", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Are responsible for cooking"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 7 - In the text, “the communities are taking over in some villages” means that commumities ..."},
+
+                "responses": [
+                  {"text": "Build many schools"},
+                  {"text": "Replace students"},
+                  {"text": "Help children become better students"},
+                  {"text": "Now find food for their school", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"Read the text and write the letter that is in front of the correct answer", "questions":" 8 - Which of these sentences is true according to the text?"},
+
+                "responses": [
+                  {"text": "Food keeps children at school", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "School fees are high in Tambacounda"},
+                  {"text": "Fatouma will never become a scientist or an economist"},
+                  {"text": "Good food makes children lazy at school"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"1 - According to the text, what are the problems the pupils have when they are hungry (paragraph 2)"},
+
+                "responses": [
+                  {"text": "According to the text, when pupils are hungry, they become energetic and have no problems concentrating on their schoolwork."},
+                  {"text": "According to the text, when pupils are hungry, they become easily distracted and have problems concentrating on their schoolwork.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "According to the text, when pupils are hungry, they become sick and do nothing."},
+                  {"text": "According to the text, when pupils are hungry, they become intelligent and have problems concentrating on their schoolwork."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - GUIDED ESSAY", "texts":"Read the text and choose the correct questions.","questions":"2 - In the text, how do many schools get their foodstuffs? "},
+
+                "responses": [
+                  {"text": "In the text, many schools get their foodstuffs from the goverment"},
+                  {"text": "In the text, many schools get their foodstuffs from World Food Program (W.F.P) and commumities", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "In the text, many schools get their foodstuffs from villages"},
+                  {"text": "In the text, many schools get their foodstuffs from the parents"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Fill in the gaps with the right relative pronoun","questions":"1 -Pupils ... are hungry cannot attend classes."},
+
+                "responses": [
+                  {"text": "whom"},
+                  {"text": "whose"},
+                  {"text": "which"},
+                  {"text": "who", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A -  Fill in the gaps with the right relative pronoun","questions":"2 - A child ... family is poor may also do well at school."},
+
+                "responses": [
+                  {"text": "whom"},
+                  {"text": "whose", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "which"},
+                  {"text": "who"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct answer","questions":"1 - Which sentence is in the present perfect tense"},
+
+                "responses": [
+                  {"text": "Education can boost development in Africa"},
+                  {"text": "Education has been able to boost development in Africa", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Education will boost development in Africa"},
+                  {"text": "Education would have boosted development in Africa"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct answer","questions":"2 - Which sentence is in the present perfect tense"},
+
+                "responses": [
+                  {"text": "Fatouma has studied in Tambacounda", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Fatouma studies in Tambacounda"},
+                  {"text": "Fatouma studied in Tambacounda"},
+                  {"text": "Fatouma would have studied in Tambacounda"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the reported speech for the following sentence.","questions":"1 -  “I want to eat something”, she said"},
+
+                "responses": [
+                  {"text": "she said that she wanted to eat something", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "she said that she will eat something"},
+                  {"text": "she said that she want to eat something"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the reported speech for the following sentence.","questions":"2 - “What will you learn today” She asked her friends."},
+
+                "responses": [
+                  {"text": "She asked her friends what they would learn that day", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "She asked her friends what you learn today"},
+                  {"text": "She asked her friends what they will learn today"},
+                  {"text": "She asked her friends what they learnt today"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"1 - Elle ne va pas à l'école tous les jours N'est-ce pas?"},
+
+                "responses": [
+                  {"text": "She goes to school everyday?"},
+                  {"text": "She goes to school everyday, doesn't she?"},
+                  {"text": "She doesn't go to school everyday, does she?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "She doesn't go to school?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"2 - Leur famille est la plus riche du village"},
+
+                "responses": [
+                  {"text": "Their family is the richest in the village", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Their family is the poorest in the village"},
+                  {"text": "Their family is the most beautiful in the village"},
+                  {"text": "Their family is not the richest in the village"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation ","questions":"3 - Ces parents s occupent de leurs enfants" },
+
+                "responses": [
+                  {"text": "These children take care of their parents"},
+                  {"text": "These parents does not take care of their children"},
+                  {"text": "These parents take care of their children" ,"correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "These children does not take care of their parents"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"IV - TRANSLATE INTO ENGLISH", "texts":"Choose the correct tranlation  ","questions":"4 - Quel bon riz!"},
+
+                "responses": [
+                  {"text": "What rice!"},
+                  {"text": "What a good rice!", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "What's  good!"},
+                  {"text": "What a rice good!"}
+                ]
+              }
+            ]
+          }
+      },
+      {"id":6,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and choose the correct answer", "questions":"1 - The boy complained to ..."},
+
+              "responses": [
+                  {"text": "His friend"},
+                  {"text": "His teacher"},
+                  {"text": "A relative", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "A classmate"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and choose the correct answer", "questions":" 2 - The boy had to meet his uncle again ..."},
+
+                "responses": [
+                  {"text": "The previous week"},
+                  {"text": "Two weeks later"},
+                  {"text": "The following week"},
+                  {"text": "At the weekend", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and choose the correct answer", "questions":" 3 - For the boy the new school was ..."},
+
+                "responses": [
+                  {"text": "Difficult"},
+                  {"text": "Interesting"},
+                  {"text": "Too easy", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Good for him"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and choose the correct answer", "questions":" 4 - At last the boy ..."},
+
+                "responses": [
+                  {"text": "Disagreed with his uncle"},
+                  {"text": "Agreed with his uncle", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Was angry with his uncle"},
+                  {"text": "Disappointed his uncle"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - The workshops are not in the boy's school"},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - A technical school is where you can receive a practical training"},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - The boy admires manual workers"},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - For the uncle, a technician is more than a manual worker"},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 - When did the uncle take the boy to the new school?"},
+
+                "responses": [
+                  {"text": "The uncle took the boy to the new school before the last day of the holidays"},
+                  {"text": "The uncle took the boy to the new school after the last day of the holidays", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The uncle took the boy to the new school during the holidays"},
+                  {"text": "The uncle took the boy to the new school two days after the holidays"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - Where did the boy come from?"},
+
+                "responses": [
+                  {"text": "The boy came from the city"},
+                  {"text": "The boy came from Kouroussa", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The boy came from the school"},
+                  {"text": "The boy came from workshops"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - Find out expressions in the text to show that the work conditions were hard?"},
+
+                "responses": [
+                  {"text": "The boy could see at once that there was nothing worth waiting for"},
+                  {"text": "The boy had scratches and his fingers burned", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The boy had had no more respect than most people for such workers"},
+                  {"text": "The technician can do many"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the word corresponding to the following definition.","questions":"1 - A person who strongly wants to succeed is ..."},
+
+                "responses": [
+                  {"text": "knowledgeable"},
+                  {"text": "intelligent"},
+                  {"text": "ambitious", "correct": true, "answer":"GREAT JOB !"},
+                  {"text": "strong"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the word corresponding to the following definition.","questions":"2 - A job which we do with our hands is ..."},
+
+                "responses": [
+                  {"text": "manual", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "hard"},
+                  {"text": "delicate"},
+                  {"text": "moveable"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Which irregular verb is conjugated in simple past","questions":"1 -  In first three sentences"},
+
+                "responses": [
+                  {"text": "said" ,"correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "keep"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Which irregular verb is conjugated in simple past","questions":"2 - In first three sentences"},
+
+                "responses": [
+                  {"text": "learnt"},
+                  {"text": "took", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"1 - Children must learn their lessons before (to go) to school."},
+
+                "responses": [
+                  {"text": "going", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "go"},
+                  {"text": "will go"},
+                  {"text": "will be going"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"2 - The pupils would like (to meet) the headmaster."},
+
+                "responses": [
+                  {"text": "to meet", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "meet"},
+                  {"text": "met"},
+                  {"text": "will meet"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct comparative of superiority form for the following sentence","questions":"1 - This child is (good) his brother at Englısh"},
+
+                "responses": [
+                  {"text": "This child is better than his brother at Englısh", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "This child is best his brother at Englısh"},
+                  {"text": "This child is the best his brother at Englısh"},
+                  {"text": "This child is better his brother at Englısh"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct comparative of superiority form for the following sentence","questions":"2 - A car is (expensive) a bicycle"},
+
+                "responses": [
+                  {"text": "A car is more expensive than a bicycle", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "A car is expensive a bicycle"},
+                  {"text": "A car is the most expensive a bicycle"},
+                  {"text": "A car is more expensive a bicycle"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct tense of the verb in brackets.","questions":"1 -  Salif (to buy) this car if he had money"},
+
+                "responses": [
+                  {"text": "Salif will buy this car if he had money"},
+                  {"text": "Salif would buy this car if he had money", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Salif bought this car if he had money"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct tense of the verb in brackets","questions":"2 - The president (to leave) if the people had known the truth"},
+
+                "responses": [
+                  {"text": "The president left if the people had known the truth"},
+                  {"text": "The president would have left if the people had known the truth", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The president will leave if the people had known the truth"},
+                  {"text": "JThe president is leaving if the people had known the truth"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Fill in the blanks with the following","questions":"1 -  He drinks ... water"},
+
+                "responses": [
+                  {"text": "many"},
+                  {"text": "much", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Fill in the blanks with the following","questions":"2 - There are ... pupils in this classroom"},
+
+                  "responses": [
+                    {"text": "many", "correct": true, "answer":"GREAT JOB !"},
+                    {"text": "much"}
+                  ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Which sentence does not have an mistake","questions":"1 - Find it"},
+
+                "responses": [
+                  {"text": "Can you to speak English ?"},
+                  {"text": "Can you speak English ?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Can to speak English ?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Which sentence does not have an mistake","questions":"2 - Find it"},
+
+                "responses": [
+                  {"text": "Karim speaked Chinese yesterday"},
+                  {"text": "Karim to speaked Chinese yesterday"},
+                  {"text": "Karim spoke Chinese yesterday", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Chose the appropriate reflexive pronoum to complete the following sentence","questions":"1 - My sister washes her clothes ..."},
+
+                "responses": [
+                  {"text": "yourselves"},
+                  {"text": "themselves"},
+                  {"text": "himself"},
+                  {"text": "herself", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Chose the appropriate reflexive pronoum to complete the following sentence","questions":"2 - The children are enjoying ..."},
+
+                  "responses": [
+                    {"text": "yourselves"},
+                    {"text": "themselves", "correct": true, "answer":"GREAT JOB ! "},
+                    {"text": "himself"},
+                    {"text": "herself"}
+                  ]
+              }
+            ]
+          }
+      },
+      {"id":7,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":"1 - Jane is now living in her uncle’s family because ..."},
+
+              "responses": [
+                  {"text": "her aunt died"},
+                  {"text": "her cousin died"},
+                  {"text": "her father die", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "her brother died."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Who ill-treated Jane the most in the Reeds family ?"},
+
+                "responses": [
+                  {"text": "John", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Mrs Reed"},
+                  {"text": "Mr Reed"},
+                  {"text": "John’s brother."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Jane was behind the curtain ..."},
+
+                "responses": [
+                  {"text": "looking for a book"},
+                  {"text": "placing a book"},
+                  {"text": "stealing a book"},
+                  {"text": "reading a book.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - When John threw the book at Jane ..."},
+
+                "responses": [
+                  {"text": "she could throw it back"},
+                  {"text": "she could not avoid it", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "she could catch it"},
+                  {"text": "she could avoid it"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - John’s mother told him that Jane was dependent."},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - Jane inherited wealth from his father."},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - Jane’s cousins loved her."},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - John Reed is a bad and violent boy."},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 - How did John know that Jane’s father left her no money?"},
+
+                "responses": [
+                  {"text": "John know that Jane’s father left her no money because his mother had told him", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "John know that Jane’s father left her no money because he took it"},
+                  {"text": "John know that Jane’s father left her no money because her father told him"},
+                  {"text": "John know that Jane’s father left her no money because the Reed family took it"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - According to John, what should Jane do in order to live?"},
+
+                "responses": [
+                  {"text": "According to John, Jane should read to live"},
+                  {"text": "According to John, Jane should beg to live", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "According to John, Jane should do mothing to live"},
+                  {"text": "According to John, Jane should get a job to live"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - Was Jane happy in the Reeds family? Why or why not ?"},
+
+                "responses": [
+                  {"text": "Yes, she happy because they treated her with love"},
+                  {"text": "No, she was not happy because she was ill-treated", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "No, she was not happy because Jhon did not want her to leave"},
+                  {"text": "Yes, she happy because she could do whatever she want"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, a verb deriving from this noun.","questions":"1 - knowledge"},
+
+                "responses": [
+                  {"text": "To know", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "To be aware"},
+                  {"text": "To be"},
+                  {"text": "To knock"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, a noun deriving from this verb.","questions":"2 - beggar"},
+
+                "responses": [
+                  {"text": "To beg", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "To bring"},
+                  {"text": "To stand"},
+                  {"text": "To live"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the appropriate words from the text.","questions":"1 - The person who tells a story is a ...  (paragraph 1) " },
+
+                "responses": [
+                  {"text": "narrator" ,"correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "sister"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the appropriate words from the text","questions":"2 - Jane was terribly ... by the book  (paragraph 3)"},
+
+                "responses": [
+                  {"text": "Knocked over", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Striking"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"1 - Look ! Jane (to cry)."},
+
+                "responses": [
+                  {"text": "cried"},
+                  {"text": "cry"},
+                  {"text": "is crying", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "cries"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"2 - Jane (to be) independent in the future?"},
+
+                "responses": [
+                  {"text": "will be", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "is"},
+                  {"text": "being"},
+                  {"text": "will have been"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks with the appropriate preposition","questions":"1 - I have lost my keys; I am looking ... them."},
+
+                "responses": [
+                  {"text": "for", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "after"},
+                  {"text": "at"},
+                  {"text": "from"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Fill in the blanks with the appropriate preposition","questions":"2 - John is different ... the other children."},
+
+                "responses": [
+                  {"text": "for"},
+                  {"text": "after"},
+                  {"text": "at"},
+                  {"text": "from", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the indirect speech for the following sentence.","questions":"1 -  Jane said: “I am reading a book.”"},
+
+                "responses": [
+                  {"text": "Jane said that she was reading a book", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Jane said that he is reading a book"},
+                  {"text": "Jane said that she has been reading a book"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the indirect speech for the following sentence.","questions":"2 - “Put the book back on the bookshelf”, John ordered Jane."},
+
+                "responses": [
+                  {"text": "John ordered Jane to be putting the book back on the bookshelf"},
+                  {"text": "John ordered Jane to put the book back on the bookshelf", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Jane ordered Jhon to put the book back on the bookshelf"},
+                  {"text": "John shoutld ordered Jane to put the book back on the bookshelf"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the appropriate relative pronoun to complete the sentence.","questions":"1 - John is the boy ... doesn’t like Jane."},
+
+                "responses": [
+                  {"text": "that"},
+                  {"text": "who", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "which"},
+                  {"text": "whom"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the appropriate relative pronoun to complete the sentence.","questions":"2 - Jane ... father died was suffering?"},
+
+                  "responses": [
+                    {"text": "that"},
+                    {"text": "who"},
+                    {"text": "which"},
+                    {"text": "whose", "correct": true, "answer":"GREAT JOB !"}
+                  ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Choose the one corresponding to the correct answer.","questions":"1 - We must never be violent, ..."},
+
+                "responses": [
+                  {"text": "Must we?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Mustn’t we?"},
+                  {"text": "Must we not?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Choose the one corresponding to the correct answer.","questions":"2 - Mrs Reed consoles her, ..."},
+
+                "responses": [
+                  {"text": "Does she?"},
+                  {"text": "Does she not?"},
+                  {"text": "Doesn’t she?", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Complete the sentence with “make” or “do”.","questions":"1 - I ... my homework every day."},
+
+                "responses": [
+                  {"text": "make"},
+                  {"text": "do", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Complete the sentence with “make” or “do”.","questions":"2 - They always ... mistakes."},
+
+                  "responses": [
+                    {"text": "make", "correct": true, "answer":"GREAT JOB ! "},
+                    {"text": "do"}
+                  ]
+              }
+            ]
+        }
+      },
+      {"id":8,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":"1 - The boy joined one group of soldiers when he was ... years old."},
+
+              "responses": [
+                  {"text": "Fifteen years", "correct": true, "answer":"GREAT JOB !"},
+                  {"text": "Less than fifteen"},
+                  {"text": "More than fifteen"},
+                  {"text": "Not fifteen"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - In the sentence: “I was hurt in the very first one”. “one” reters to:"},
+
+                "responses": [
+                  {"text": "The last combat"},
+                  {"text": "The second combat"},
+                  {"text": "The very first combat", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The first and last combat"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - When the boys killed his enemies, he was ..."},
+
+                "responses": [
+                  {"text": "troubled"},
+                  {"text": "unhappy"},
+                  {"text": "chocked"},
+                  {"text": "happy", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - After the war, the boy ..."},
+
+                "responses": [
+                  {"text": "got a job"},
+                  {"text": "didn't get a job", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "refused to work"},
+                  {"text": "worked in a hospital"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - They treated Lawrence Moore in a health centre"},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - Lawrence Moore's group of soldiers didn't lose any of its men"},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - Lawrence Moore went to school"},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - The boy regrets having been a soldier"},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct answer to the question","questions":"1 - Who Is Lawrence Moore?"},
+
+                "responses": [
+                  {"text": "Lawrence Moore is a father"},
+                  {"text": "Lawrence Moore is a boy"},
+                  {"text": "Lawrence Moore is a child soldier", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Lawrence Moore is a friend"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct answer to the question","questions":"2 - Why did Lawrence Moore become a soldier?"},
+
+                "responses": [
+                  {"text": "Lawrence Moore became a soldier because his country was at war", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Lawrence Moore became a soldier because he enjoyed killing"},
+                  {"text": "Lawrence Moore became a soldier because he had no job"},
+                  {"text": "Lawrence Moore became a soldier because he a child"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct answer to the question","questions":"3 - What did the boy want do after the war?"},
+
+                "responses": [
+                  {"text": "After the war the boy wanted to get a job", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "After the war the boy wanted to have a beautiful motorcycle"},
+                  {"text": "After the war the boy wanted to go to prison"},
+                  {"text": "After the war the boy wanted to go to school"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct answer to the question","questions":"4 - How many years did the boy spend in the bush?"},
+
+                "responses": [
+                  {"text": "He spent five years in the bush", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "He spent two years in the bush"},
+                  {"text": "He spent fifteen years in the bush"},
+                  {"text": "He spent four years in the bush"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the noun that derive from this verb","questions":"1 - To train (Paragraph 2)"},
+
+                "responses": [
+                  {"text": "killing"},
+                  {"text": "trainning", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "findding"},
+                  {"text": "traveling"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the noun that derive from this verb","questions":"2 - To live (Paragraph 3)"},
+
+                "responses": [
+                  {"text": "living", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "diying"},
+                  {"text": "being"},
+                  {"text": "participating"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with a noun or an adjective of the word in brackets","questions":"1 - People who make war are ... (paragraph 1)" },
+
+                "responses": [
+                  {"text": "boys"},
+                  {"text": "soldiers","correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with a noun or an adjective of the word in brackets","questions":"2 - According to the United Nations convention, using children as soldiers is ... (paragraph 3)" },
+
+                "responses": [
+                  {"text": "legal"},
+                  {"text": "illegal","correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Which is the correct simple future form","questions":"1 - Lawrence must go to school"},
+
+                "responses": [
+                  {"text": "Lawrence will be going to school"},
+                  {"text": "Lawrence will have go to school", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Lawrence will go to school"},
+                  {"text": "Lawrence will must go to school"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A -  Which is the correct simple future form","questions":"2 - Can you help children in armed conflicts?"},
+
+                "responses": [
+                  {"text": "Will you help children in armed conflicts?"},
+                  {"text": "Will you be able to help children in armed conflicts?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Will you be helping children in armed conflicts?"},
+                  {"text": "Can you be able to help children in armed conflicts?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct tense for verb in brackets","questions":"1 - They (to make) war last year"},
+
+                "responses": [
+                  {"text": "make"},
+                  {"text": "made", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "will make"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct tense for verb in brackets","questions":"2 - If Lawrence had know he (to go) to school"},
+
+                "responses": [
+                  {"text": "will be going"},
+                  {"text": "will go"},
+                  {"text": "would have gone", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct comparative of superiority form for the following sentence","questions":"1 - He is (young) his sister"},
+
+                "responses": [
+                  {"text": "He is younger than his sister", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "He is youngest his sister"},
+                  {"text": "He is the youngest his sister"}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"C - Choose the correct comparative of superiority form for the following sentence","questions":"2 - Wars are (terrible) diseases"},
+
+                "responses": [
+                  {"text": "Wars are more terrible than diseases", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Wars are the terriblest diseases"},
+                  {"text": "Wars are the most terriblest diseases"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the correct passive voice form for the  following sentence","questions":"1 - Lawrence killed a lot of enemies"},
+
+                "responses": [
+                  {"text": "A lot of enemies were killed by Lawrence", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Lawrence killed A lot of enemies"},
+                  {"text": "A lot of enemies will be killed by Lawrence"},
+                  {"text": "A lot of enemies would have killed by Lawrence"}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"D - Choose the correct passive voice form for the  following sentence","questions":"2 - She will find a new job"},
+
+                  "responses": [
+                    {"text": "A new job will be found by she"},
+                    {"text": "A new job will be found by her", "correct": true, "answer":"GREAT JOB !"},
+                    {"text": "A new job would have been found by her"},
+                    {"text": "A new job will find by her"}
+                  ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E -  Complete with followings","questions":"1 - They did not get ... money"},
+
+                "responses": [
+                  {"text": "many"},
+                  {"text": "much", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"E - Complete with followings","questions":"2 - ... children die in wars"},
+
+                "responses": [
+                  {"text": "many", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "much"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - choose the correct negative form  for the following sentence.","questions":"1 - Lawrence felt very good"},
+
+                "responses": [
+                  {"text": "Lawrence did not feel very good", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Lawrence did not felt very good"}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"F - choose the correct negative form for the following sentence.","questions":"2 - The boy takes drugs"},
+
+                  "responses": [
+                    {"text": "The boy does not take drugs", "correct": true, "answer":"GREAT JOB ! "},
+                    {"text": "The boy does not takes drugs"}
+                  ]
+              }
+            ]
+          }
+      },
+      {"id":9,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":"1 - According the text, some people immigrate because they ..."},
+
+              "responses": [
+                  {"text": "Are forced to live in their country."},
+                  {"text": "Are poor", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Have a better life"},
+                  {"text": "Want to visit their relatives"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - In the text, immigrants do not have adapt themselves to the ..."},
+
+                "responses": [
+                  {"text": "Local populations"},
+                  {"text": "Climate"},
+                  {"text": "Motherland", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Habits, customs and food."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Before the political crisis in Cote d'Ivoire, Burkinabe ..."},
+
+                "responses": [
+                  {"text": "Enjoyed life with Ivorian populations.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Fought Ivorian populations."},
+                  {"text": "Maltreated lvorian populations."},
+                  {"text": "Rejected Ivorian populations."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - In text, immigants work is useful to:"},
+
+                "responses": [
+                  {"text": "Only their motherland"},
+                  {"text": "Only their host country"},
+                  {"text": "Only their families"},
+                  {"text": "Their motherland and host country", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - Some people immigrate because they like experiencing new realities."},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - Immigrants must get used to the local food."},
+
+                "responses": [
+                  {"text": "False"},
+                  {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - Some Burkinabe came back to Ouagadougou because of war in their home country"},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - In case of crisis, immigrants do not decide to leave host country immediately."},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 -  what reasons make people immigrate?"},
+
+                "responses": [
+                  {"text": "People immigrate for many reasons: police, dirt, no water and noisy"},
+                  {"text": "People immigrate for many reasons: new jobs, killing, war and children"},
+                  {"text": "People immigrate for many reasons: political crisis, poverty, adventure and better life", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "People immigrate for many reasons: new car, new technology, no more food and knowledge"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - Why did Burkinabe leave Côte d'Ivoire?"},
+
+                "responses": [
+                  {"text": "Burkinabe left Côte d'Ivoire because of political positivity"},
+                  {"text": "Burkinabe left Côte d'Ivoire because there was less food"},
+                  {"text": "Burkinabe left Côte d'Ivoire because there were no more jobs"},
+                  {"text": "Burkinabe left Côte d'Ivoire because of political instability", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - How are immigrants useful to both their motherland and their host country?"},
+
+                "responses": [
+                  {"text": "Immigrants useful to both their motherland and their host country through their food"},
+                  {"text": "Immigrants useful to both their motherland and their host country through their work", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Immigrants useful to both their motherland and their host country through their war"},
+                  {"text": "Immigrants useful to both their motherland and their host country through theircon communities"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the opposites of this word.","questions":"1 - To stay"},
+
+                "responses": [
+                  {"text": "To drink"},
+                  {"text": "To come"},
+                  {"text": "To leave", "correct": true, "answer":"GREAT JOB !"},
+                  {"text": "To travel"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, the opposites of this word.","questions":"2 - Useless"},
+
+                "responses": [
+                  {"text": "Useful", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Powerless"},
+                  {"text": "Beautiful"},
+                  {"text": "Harmless"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Find in the text, the synonym of this word.","questions":"1 - Problems (Paragraph 1)" },
+
+                "responses": [
+                  {"text": "difficulties" ,"correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "probabilities"}
+                ]
+              },
+              {
+                "text":
+                {"type":"II - VOCABULARY", "texts":"B - Find in the text, the synonym of this word..","questions":"1 - Calm (paragraph 3)" },
+
+                "responses": [
+                  {"text": "peaceful", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "noisy"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"1 - If Burkinabe knew they ... home."},
+
+                "responses": [
+                  {"text": "Will stay"},
+                  {"text": "Would stay", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Stayed"},
+                  {"text": "Stay"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"2 - He succeeded by ... hard."},
+
+                "responses": [
+                  {"text": "Work"},
+                  {"text": "Worked"},
+                  {"text": "Working", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Works"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"3 - These populations ... peacefully some years ago."},
+
+                "responses": [
+                  {"text": "Lived", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Are living"},
+                  {"text": "Live"},
+                  {"text": "Have lived"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"4 - Wars make people ... their countries."},
+
+                "responses": [
+                  {"text": "Leaving"},
+                  {"text": "Left"},
+                  {"text": "Leaves"},
+                  {"text": "Leave", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Which plural form of the word in parentheses is correct?","questions":"1 - He is eating (a mango)."},
+
+                "responses": [
+                  {"text": "He is eating a mangoes"},
+                  {"text": "He is eating the mangoes"},
+                  {"text": "He is eating mangoes", "correct": true, "answer":"GREAT JOB !"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Which plural form of the word in parentheses is correct?","questions":"2 - He loves his (wife)"},
+
+                "responses": [
+                  {"text": "He loves his wifes"},
+                  {"text": "He loves his wives", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "He loves his the wifes"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Complete the sentence with the following words below","questions":"1 -  ... a nice country!"},
+
+                "responses": [
+                  {"text": "How"},
+                  {"text": "What", "correct": true, "answer":"GREAT JOB !" }
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"C - Complete the sentence with the following words below" ,"questions":" ... poor they are!"},
+
+                "responses": [
+                  {"text": "How", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "What"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Choose the correct indirect speech of this sentence","questions":"1 - “Populations meet many problems”. I said"},
+
+                "responses": [
+                  {"text": "Populations meet many problems I said"},
+                  {"text": "I said that populations meet many problems", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "The populations meet many problems"},
+                  {"text": "He said that populations meet many problems"}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"D - hoose the correct indirect speech of this sentence","questions":"2 - “Go back home”. They ordered him."},
+
+                  "responses": [
+                    {"text": "They ordered him to go back home.", "correct": true, "answer":"GREAT JOB !"},
+                    {"text": "Go back home they ordered him"},
+                    {"text": "Go back home"},
+                    {"text": "They ordered him go home"}
+                  ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Which verb is in past perfect simple tense","questions":"1 - They can stay in their nations."},
+
+                "responses": [
+                  {"text": "They had been able to stay in their nations.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "They could have stayed in their nations"},
+                  {"text": "They had stayed in their nations"}
+                ]
+              },
+              {
+                "text":
+                {"type":"III - GRAMMAR", "texts":"E - Which verb is in past perfect simple tense","questions":"2 - She lives in Côte d' lvoire."},
+
+                "responses": [
+                  {"text": "She would had lived in Côte d' lvoire."},
+                  {"text": "She lived in Côte d' lvoire."},
+                  {"text": "She had lived in Côte d' lvoire.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              }
+          ]
+        }
+      },
+      {"id":10,
+        "tests":{
+          "titre": "QUESTIONS",
+          "questions": [
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":"1 - Yaniya came to Lagos to…"},
+
+              "responses": [
+                  {"text": "give birth to a child.", "answer":" "},
+                  {"text": "look for a job.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "get married.", "answer":" "},
+                  {"text": "buy herself clothes.", "answer":" "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - The sentence “Wilson’s kindness opened her heart again” means:"},
+
+                "responses": [
+                  {"text": "Yaniya had many boyfriends."},
+                  {"text": "Yaniya rejected Wilson."},
+                  {"text": "Yaniya was indifferent to Wilson."},
+                  {"text": "Yaniya started loving again.", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Life with Wilson was…"},
+
+                "responses": [
+                  {"text": "interesting.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "difficult."},
+                  {"text": "boring."},
+                  {"text": "sad."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - For Yaniya, most of Lagos men are…"},
+
+                "responses": [
+                  {"text": "kind."},
+                  {"text": "honest."},
+                  {"text": "dishonest.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "good."}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - Yaniya’s father was happy when she decided to go to Lagos."},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - The abortion killed Yaniya."},
+
+                "responses": [
+                  {"text": "True"},
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - Yaniya was pregnant before getting married to Wilson."},
+
+                "responses": [
+                  {"text": "True"},
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - After their wedding, they went to Benin."},
+
+                "responses": [
+                  {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "True"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 - Where did Yaniya come from?"},
+
+                "responses": [
+                  {"text": "Yaniya come from Lagos"},
+                  {"text": "Yaniya come from Benin", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Yaniya come from Accra"},
+                  {"text": "Yaniya come from Burkina Faso"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - What happened to Yaniya’s first child?"},
+
+                "responses": [
+                  {"text": "Yaniya’s first child died", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Yaniya’s first child lived"},
+                  {"text": "Nothing happened to Yaniya’s first child"},
+                  {"text": "Yaniya’s first child became ill"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - Why did Yaniya reject men’s advances?"},
+
+                "responses": [
+                  {"text": "Yaniya reject men’s advances because they were loyal"},
+                  {"text": "Yaniya reject men’s advances because she had suffered before and did not want to suffer again", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Yaniya reject men’s advances because they were loving"},
+                  {"text": "Yaniya reject men’s advances because they were loved her too much"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, a noun deriving from this verb.","questions":"1 - To refuse"},
+
+                "responses": [
+                  {"text": "Reason"},
+                  {"text": "Refuse"},
+                  {"text": "Refusal", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Rent"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"A - Find in the text, a noun deriving from this verb.","questions":"2 - To lie"},
+
+                "responses": [
+                  {"text": "Living"},
+                  {"text": "Life"},
+                  {"text": "Lies", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Loyal"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with an adverb from the text.","questions":"1 - You must very ... to earn your living. "},
+
+                "responses": [
+                  {"text": "Nearly"},
+                  {"text": "Hard","correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with an adverb from the text.","questions":"2 - The baby is sick; you should take him to hospital ..."},
+
+                "responses": [
+                  {"text": "Happy"},
+                  {"text": "Immediately", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"1 - Yaniya is busy (to work)"},
+
+                "responses": [
+                  {"text": "working", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "worked"},
+                  {"text": "work"},
+                  {"text": "works"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"A - Choose the correct form of the verb between brackets.","questions":"2 - Yaniya’s father did not let her (to go) to Lagos."},
+
+                "responses": [
+                  {"text": "gone"},
+                  {"text": "going"},
+                  {"text": "go", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "goes"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct verb to replace the verb in brackets into the correct tense.","questions":"1 - When they (to get) married Wilson will buy her a new car."},
+
+                "responses": [
+                  {"text": "got"},
+                  {"text": "get", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "will get"},
+                  {"text": "getting"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"B - Choose the correct verb to replace the verb in brackets into the correct tense.","questions":"2 - They (to be) in Lagos two years ago."},
+
+                "responses": [
+                  {"text": "will"},
+                  {"text": "is"},
+                  {"text": "are"},
+                  {"text": "were", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the interrogative form for the following sentence.","questions":"1 - Wilson loves Yaniya."},
+
+                "responses": [
+                  {"text": "Wilson loves Yaniya?"},
+                  {"text": "Is Wilson loving Yaniya?"},
+                  {"text": "Does Wilson loves Yaniya?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Wilson will loves Yaniya?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"C - Choose the correct the interrogative form for the following sentence.","questions":"2 - Yaniya can speak English."},
+
+                "responses": [
+                  {"text": "Can Yaniya speak English?", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Yaniya can speak English?"},
+                  {"text": "Yaniya will speak English?"},
+                  {"text": "Does Yaniya speak English?"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Complete the following sentences with the correct tag question.","questions":"1 - Yaniya is living in Lagos, ... she?"},
+
+                "responses": [
+                  {"text": "is"},
+                  {"text": "isn't", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "will"},
+                  {"text": "does"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"D - Complete the following sentences with the correct tag question.","questions":"2 - Wilson will not abandon Yaniya, ... he?"},
+
+                "responses": [
+                  {"text": "would"},
+                  {"text": "will", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "are"},
+                  {"text": "is"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Choose the right reflexive pronouns.","questions":"1 - The man cut ..."},
+
+                "responses": [
+                  {"text": "itself"},
+                  {"text": "himself", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "herself"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"E - Choose the right reflexive pronouns.","questions":"2 - I did not do the exercise by ..."},
+
+                "responses": [
+                  {"text": "herself"},
+                  {"text": "itself"},
+                  {"text": "myself", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Choose the correct preposition to fill in the gaps.","questions":"1 - Yaniya is listening ... the radio"},
+
+                "responses": [
+                  {"text": "at"},
+                  {"text": "to", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "for"}
+                ]
+              },
+              {
+                "text":
+                  {"type":"III - GRAMMAR", "texts":"F - Choose the correct preposition to fill in the gaps.","questions":"2 - She did not agree ... her father"},
+
+                "responses": [
+                  {"text": "for"},
+                  {"text": "in"},
+                  {"text": "with", "correct": true, "answer":"GREAT JOB ! "}
+                ]
+              }
+            ]
+
+        }
+
+    },
+    {"id":11,
+      "tests":{
+        "titre": "QUESTIONS",
+        "questions": [
+          {
+            "text":
+              {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":"1 - The narrator was born in a ..... family:"},
+
+            "responses": [
+                {"text": "small"},
+                {"text": "rich"},
+                {"text": "big", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "poor"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 2 - Adults told stories ....."},
+
+              "responses": [
+                {"text": "near the fire.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "in the fields."},
+                {"text": "to adults"},
+                {"text": "without children."}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 3 - Children liked Hare because he was ..."},
+
+              "responses": [
+                {"text": "curious."},
+                {"text": "ridiculous."},
+                {"text": "courageous.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "dangerous."}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"A - Read the text and write the letter that is in front of the correct answer", "questions":" 4 - In the tales, animals’ life is ..."},
+
+              "responses": [
+                {"text": "easy."},
+                {"text": "difficult.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "interesting."},
+                {"text": "wonderful."}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"1 - The narrator’s father was polygamous."},
+
+              "responses": [
+                {"text": "False"},
+                {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"2 - In the text, all the children work in the fields at night."},
+
+              "responses": [
+                {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "True"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"3 - All the characters in the stories were animals."},
+
+              "responses": [
+                {"text": "False", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "True"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"B - Read the text and choose True or False ","questions":"4 - The narrator also belonged to all the village."},
+
+              "responses": [
+                {"text": "False"},
+                {"text": "True", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"1 -  How many people were there in the narrator's family?"},
+
+              "responses": [
+                {"text": "In the narrator's family there were thrirty-three (33) people", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "In the narrator's family there were thrirty (30) people"},
+                {"text": "In the narrator's family there were four (4) people"},
+                {"text": "In the narrator's family there were twenty-height (28) people"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"2 - To whom did the children retell the stories?"},
+
+              "responses": [
+                {"text": "The children retold the stories to their parents"},
+                {"text": "The children retold the stories to the other children who were absent", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "The children retold the stories to their families"},
+                {"text": "The children retold the stories everybody"}
+              ]
+            },
+            {
+              "text":
+                {"type":"I - COMPREHENSION", "texts":"C - Read the text and choose the correct questions.","questions":"3 - Why did adults tell stories to the children?"},
+
+              "responses": [
+                {"text": "Adults told stories to the children because they were around the wood fire"},
+                {"text": "Adults told stories to the children because they want to prepare them for real life experiences", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Adults told stories to the children because they are their children"},
+                {"text": "Adults told stories to the children because they want the children to be scare"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"A - Find in the text, the antonyms of this noun.","questions":"1 - forget"},
+
+              "responses": [
+                {"text": "remember", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "tell"},
+                {"text": "speak"},
+                {"text": "neglect"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"A - Find in the text, the antonyms of this verb.","questions":"2 - strong"},
+
+              "responses": [
+                {"text": "weak", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "powerful"},
+                {"text": "tough"},
+                {"text": "sturdy"}
+              ]
+            },
+            {
+              "text":
+                {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the synonym of the word in brackets.","questions":"1 - This ... grows millet in his field. (peasant) (paragraph 1)" },
+
+              "responses": [
+                {"text": "farmer" ,"correct": true, "answer":"GREAT JOB ! "},
+                {"text": "family"}
+              ]
+            },
+            {
+              "text":
+              {"type":"II - VOCABULARY", "texts":"B - Complete the following sentences with the synonym of the word in brackets.","questions":"2 - The ... for survival is taught to the Gikuyu children. (fight) (paragraph 3)" },
+
+              "responses": [
+                {"text": "struggle", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "support"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"1 - Last year, the Gikuyu children ... the stories."},
+
+              "responses": [
+                {"text": "do not retell"},
+                {"text": "did not retell", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "will not retell"},
+                {"text": "shall not retell"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"A - Choose the the correct answer.","questions":"2 - Every day my grandmother ... us stories."},
+
+              "responses": [
+                {"text": "tells", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "has told"},
+                {"text": "tell"},
+                {"text": "have told"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"B - Complete with the followings","questions":"1 - ... intelligent children!."},
+
+              "responses": [
+                {"text": "what", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "what a"},
+                {"text": "what an"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"B - Complete with the followings the followings","questions":"2 - ... interesting tale."},
+
+              "responses": [
+                {"text": "what"},
+                {"text": "what a"},
+                {"text": "what an", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"C - The word in brackets is a grammatical mistakes, choose the correct one.","questions":"1 -  Jane said: “The Gikuyu children ( works ) in the fields everyday.”"},
+
+              "responses": [
+                {"text": "work", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "worked"},
+                {"text": "are working"}
+              ]
+            },
+            {
+              "text":
+              {"type":"III - GRAMMAR", "texts":"C - The word in brackets is a grammatical mistakes, choose the correct one.","questions":"2 -  He ( eats ) two days ago."},
+
+              "responses": [
+                {"text": "is eating"},
+                {"text": "ate", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "will eat"}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"D - Choose the correct answer to fill in the blanks.","questions":"1 - My father was a farmer, ..."},
+
+              "responses": [
+                {"text": "so was my mother.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "so is my mother."},
+                {"text": "so will be my mother."},
+                {"text": "so has been my mother."}
+              ]
+            },
+            {
+              "text":
+              {"type":"III - GRAMMAR", "texts":"D - Choose the correct answer to fill in the blanks.","questions":"2 - Some parents do not tell stories, ..."},
+
+                "responses": [
+                  {"text": "neither has my grandfather."},
+                  {"text": "neither had my grandfather."},
+                  {"text": "neither did my grandfather."},
+                  {"text": "neither does my grandfather.", "correct": true, "answer":"GREAT JOB !"}
+                ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"E - Choose the correct verb tense of the verb in parentheses.","questions":"1 - If the children (to be) present, they would retell the stories."},
+
+              "responses": [
+                {"text": "If the children were present, they would retell the stories.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "If the children are present, they would retell the stories."},
+                {"text": "If the children will be present, they would retell the stories."}
+              ]
+            },
+            {
+              "text":
+              {"type":"III - GRAMMAR", "texts":"E - Choose the correct verb tense of the verb in parentheses.","questions":"2 -  If Lion (to catch) Hare, he will eat him."},
+
+              "responses": [
+                {"text": "If lion caught Hare, he will eat him."},
+                {"text": "If lion wil catche Hare, he will eat him."},
+                {"text": "If lion catches Hare, he will eat him.", "correct": true, "answer":"GREAT JOB ! "}
+              ]
+            },
+            {
+              "text":
+                {"type":"III - GRAMMAR", "texts":"F - choose the correct passive voice for the following sentence.","questions":"1 - The children spoke Gikuyu."},
+
+              "responses": [
+                {"text": "Gikuyu was spoken by the children.", "correct": true, "answer":"GREAT JOB ! "},
+                {"text": "Gikuyu spoked by the children."}
+              ]
+            },
+            {
+              "text":
+              {"type":"III - GRAMMAR", "texts":"F - choose the correct passive voice for the following sentence.","questions":"2 - The farmers grow beans."},
+
+                "responses": [
+                  {"text": "Beans are grown by the farmers.", "correct": true, "answer":"GREAT JOB ! "},
+                  {"text": "Beans will be grown by the farmers."}
+                ]
+            }
+          ]
+        }
+      }
+
+  ]
+}
